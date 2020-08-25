@@ -1,0 +1,61 @@
+.wc-padding-16 {
+    padding: 16px;
+}
+
+.wc-border {
+    border: 1px solid black;
+}
+
+.wc-img {
+    border-radius: 75%;
+}
+
+.wc-center {
+    text-align: center;
+}
+
+.content {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.m1 {
+    margin: 10px;
+}
+
+.text-area {
+    padding: 40px;
+}
+
+.blank-space {
+    height: 100px;
+}
+
+.blank-space-half {
+    height: 50px;
+}
+
+.search-text {
+    /* margin-top: 10px; */
+    background-color: transparent;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.search-text .input-search {
+    height: 45px;
+    width: 500px;
+    padding-left: 20px;
+    color: #333;
+}
+
+.search-text .btn-search {
+    border: 1px solid white;
+    color: white;
+    margin-left: 0px;
+    padding: 10px 20px;
+}
+
+.search-text .btn-search:hover {
+    background-color: #FFF;
+    color: White;
+}
