@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>About</title>
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap core CSS --> 
     <link href="../style/bootstrap.min.css?v=<?php echo time(); ?>" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="../style/about.css" rel="stylesheet">
